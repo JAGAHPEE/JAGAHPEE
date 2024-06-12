@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JAGAHPEE.visitor-badge" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JAGAHPEE.JAGAHPEE" />
 </div>
 <h1 align="center">Hi 👋, I'm Sandesh Kale</h1>
 <h3 align="center">A passionate Embeded developer from India</h3>
