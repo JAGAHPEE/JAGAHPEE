@@ -11,6 +11,14 @@
 
 ---
 
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=00F72F&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+  </h3>
+</div>
+
+---
+
 ### 📫 How to Reach Me:
 - **Email:** [kalesandesh66@gmail.com](mailto:kalesandesh66@gmail.com)
 
@@ -63,18 +71,33 @@
 ---
 
 ### Projects:
-[![WiKi](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=WiKi)](https://github.com/JAGAHPEE/WiKi/wiki)
-[![CDAC_Project](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=CDAC_Project)](https://github.com/JAGAHPEE/CDAC_Project/blob/main/README.md)
-[![Floor Cleaning Robot](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Major-Project--II-Floor-Cleaning-Robot)](https://github.com/JAGAHPEE/Major-Project--II-Floor-Cleaning-Robot)
-[![IOT Car Parking System](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Major_Project_I-IOT_Car_Parking_System)](https://github.com/JAGAHPEE/Major_Project_I-IOT_Car_Parking_System)
-[![Covid Protective Robot](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Minor_Project-Covid_Protective_Robot)](https://github.com/JAGAHPEE/Minor_Project-Covid_Protective_Robot)
-[![Hotel Booking Payment Gateway](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=TSF-Metro-Hotel-Booking-Payment-Gateway-Integration)](https://github.com/JAGAHPEE/TSF-Metro-Hotel-Booking-Payment-Gateway-Integration)
-[![ARDUINO IDE](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=ARDUINO_IDE)](https://github.com/JAGAHPEE/ARDUINO_IDE)
-[![Embedded System with AVR](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Embeded-System-with-AVR-ATMEGA32)](https://github.com/JAGAHPEE/Embeded-System-with-AVR-ATMEGA32)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Portfolio)](https://github.com/JAGAHPEE/Portfolio)
+<div align="center">
+  <a href="https://github.com/JAGAHPEE/WiKi/wiki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=WiKi" alt="WiKi"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/CDAC_Project/blob/main/README.md">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=CDAC_Project" alt="CDAC_Project"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/Major-Project--II-Floor-Cleaning-Robot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Major-Project--II-Floor-Cleaning-Robot" alt="Floor Cleaning Robot"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/Major_Project_I-IOT_Car_Parking_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Major_Project_I-IOT_Car_Parking_System" alt="IOT Car Parking System"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/Minor_Project-Covid_Protective_Robot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Minor_Project-Covid_Protective_Robot" alt="Covid Protective Robot"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/TSF-Metro-Hotel-Booking-Payment-Gateway-Integration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=TSF-Metro-Hotel-Booking-Payment-Gateway-Integration" alt="Hotel Booking Payment Gateway"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/ARDUINO_IDE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=ARDUINO_IDE" alt="ARDUINO IDE"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/Embeded-System-with-AVR-ATMEGA32">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Embeded-System-with-AVR-ATMEGA32" alt="Embedded System with AVR"/>
+  </a>
+  <a href="https://github.com/JAGAHPEE/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Portfolio" alt="Portfolio"/>
+  </a>
+</div>
 
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=00F72F&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
