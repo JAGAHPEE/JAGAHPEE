@@ -19,6 +19,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=JAGAHPEE&theme=dark&show_icons=true)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=WiKi)](https://github.com/JAGAHPEE/WiKi/wiki)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=CDAC_Project)](https://github.com/JAGAHPEE/CDAC_Project/blob/main/README.md)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Major-Project--II-Floor-Cleaning-Robot)](https://github.com/JAGAHPEE/Major-Project--II-Floor-Cleaning-Robot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JAGAHPEE&theme=dark&repo=Major_Project_I-IOT_Car_Parking_System)](https://github.com/JAGAHPEE/Major_Project_I-IOT_Car_Parking_System)
