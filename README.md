@@ -11,6 +11,10 @@
 
 ---
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sandesh-s-kale" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sandesh-s-kale?trk=profile-badge">Sandesh Kale</a></div>
+              
+---
+
 ### 📫 How to Reach Me:
 - **Email:** [kalesandesh66@gmail.com](mailto:kalesandesh66@gmail.com)
 
